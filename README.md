@@ -1,5 +1,4 @@
-# vue
-前端早班车vue的教程
+# 前端早班车vue的教程
 
 [前端早班车第一节: vue的搭建](http://webschool.vip//course/index.html#/details?id=vfbq515z)
 
