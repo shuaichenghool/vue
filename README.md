@@ -14,3 +14,5 @@
 
 [前端早班车第七节: 条件渲染指令](http://webschool.vip//course/index.html#/details?id=lqqcmybr)
 
+[前端早班车第八节: 列表渲染指令](http://webschool.vip//course/index.html#/details?id=lx7pd41b)
+
