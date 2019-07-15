@@ -18,4 +18,16 @@
 
 [前端早班车第九节: 事件处理](http://www.webschool.vip/course/index.html#/details?id=tgba1x8u)
 
-[前端早班车第十节:表单数据绑定](http://www.webschool.vip/course/index.html#/details?id=x90m7f8g)
+[前端早班车第十节: 表单数据绑定](http://www.webschool.vip/course/index.html#/details?id=x90m7f8g)
+
+[前端早班车第十一节：生命周期](http://www.webschool.vip/course/index.html#/details?id=kfezhbqw)
+
+[前端早班车第十二节：过渡和动画](http://www.webschool.vip/course/index.html#/details?id=l6xyu4t8)
+
+[前端早班车第十三节：过滤器](http://www.webschool.vip/course/index.html#/details?id=caxhovxy)
+
+[前端早班车第十四节：ref指令](http://www.webschool.vip/course/index.html#/details?id=ekt9m1sp)
+
+[前端早班车第十五节：v-cloak指令](http://www.webschool.vip/course/index.html#/details?id=couw3ur8)
+
+[前端早班车第十六节：自定义指令](http://www.webschool.vip/course/index.html#/details?id=ye95gyb0)
